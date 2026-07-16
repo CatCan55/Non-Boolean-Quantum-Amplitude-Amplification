@@ -42,7 +42,7 @@ $A_0 = H$ was chosen in the code. If one wants to make another choice according 
 
 Shyamsundar, P. (2021). *Non-Boolean Quantum Amplitude Amplification and Quantum Mean Estimation*. arXiv:2102.04975.
 
-## Acknowledgments
+## Acknowledgements
 
 I thank the Erdős Institute's Quantum Computing Bootcamp, under which this program was created.  
 
